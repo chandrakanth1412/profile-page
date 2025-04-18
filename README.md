@@ -12,7 +12,8 @@ A simple and clean personal profile page built using **React** and **Tailwind CS
 
 ## 📸 Preview
 
-![Profile Screenshot](./public/image.jpg)
+![image](https://github.com/user-attachments/assets/c52ea0c9-3be8-41c0-9617-34a7339221bb)
+
 
 ## 📁 Folder Structure
 
